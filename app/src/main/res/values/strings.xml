@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Aplikasi_UTS_Budi064</string>
+    <string name="name">Nama Member</string>
+    <string name="description">Deksripsi</string>
+
+    <string-array name="data_name">
+        <item>Budi</item>
+        <item>Dewi</item>
+        <item>Wicak</item>
+        <item>Lutfi</item>
+        <item>Lathifah</item>
+        <item>Livia</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nama lengkap Budi agung Fajariyanto, Lahir di Kediri pada tanggal 24 April 2003.
+            Saya anak ketiga.
+        </item>
+        <item>Nama lengkap Dewi Rahayu Kharisdayanti, Lahir di Palu pada tanggal 27 Mei 1994.
+            Anak Pertama, jadi bisa disebut ini kakakku :)
+        </item>
+        <item>Nama lengkap Adhi Wicak Milbargamas, Lahir di Palu pada tanggal 30 Maret 2000.
+            Anak kedua, jadi ini juga kakakku ya gess :)
+        </item>
+        <item>Nama lengkap Muh. Lutfi Zaidan, Lahir pada tanggal 24 Juli 2013.
+            Ini keponakan pertama.
+        </item>
+        <item>Nama lengkap Madinah Lathifah Zahidah, Lahir pada tanggal 18 April 2019.
+            Ini keponakan kedua.
+        </item>
+        <item>Nama lengkap Madinah Livia Zaira, Lahir pada tanggal 28 Mei 2021.
+            Ini keponakan ketiga.
+        </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/img</item>
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+    </array>
+</resources>
